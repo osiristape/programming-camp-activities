@@ -1,3 +1,5 @@
+## Programming Camp Syllabus 
+
 ### Basic Geometry/Euclidean Geometry/Coordinate Geometry/[3-D variants of everything]
 - **1. Computational Geometry**
   - **Graham Scan algorithm for Convex Hull**: O(n \* log(n))
