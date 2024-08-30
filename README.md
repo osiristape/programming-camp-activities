@@ -1,0 +1,2 @@
+# programming-camp-activities
+schedule
